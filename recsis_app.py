@@ -212,5 +212,3 @@ except Exception as e:
     st.error("Проверьте:")
     st.error("1. Все ли файлы находятся в указанных папках?")
     st.error("2. Корректны ли пути в настройках PathConfig?")
-
-
